@@ -49,7 +49,7 @@ Mi principal objetivo es **dominar el ecosistema Java**, y lo estoy logrando a t
 
 Podés escribirme a través de:
 
-- ✉️ **jonathanaraujo.dev@gmail.com**
+- ✉️ **jonathanaraujo232g@gmail.com**
 - 💼 [LinkedIn] https://www.linkedin.com/in/jonathan-araujo-750634181/
 - 📂 https://github.com/Joni23s
 
